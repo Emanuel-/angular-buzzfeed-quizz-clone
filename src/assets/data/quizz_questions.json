@@ -46,6 +46,56 @@
         {"id": 1, "name":"O Terrivel", "alias":"A"},
         {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
       ]
+    },
+    {
+      "id": 6,
+      "question": "Como você lidaria com um dilema ético?",
+      "options": [
+        {"id": 1, "name": "Escolheria a opção moralmente correta", "alias": "B"},
+        {"id": 2, "name": "Escolheria a opção que beneficia mais a si mesmo", "alias": "A"},
+        {"id": 3, "name": "Ficaria indeciso e buscaria conselhos", "alias": "B"},
+        {"id": 4, "name": "Escolheria a opção que causa mais caos", "alias": "A"}
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Qual seria o seu veículo de escolha para se locomover?",
+      "options": [
+        {"id": 1, "name": "Jato supersônico", "alias": "A"},
+        {"id": 2, "name": "Bicicleta elétrica", "alias": "B"},
+        {"id": 3, "name": "Carro de luxo blindado", "alias": "A"},
+        {"id": 4, "name": "Teletransporte", "alias": "B"}
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Qual é o seu disfarce ideal?",
+      "options": [
+        {"id": 1, "name": "Traje elegante e misterioso", "alias": "A"},
+        {"id": 2, "name": "Uniforme colorido e chamativo", "alias": "B"},
+        {"id": 3, "name": "Capa e capuz para se misturar", "alias": "A"},
+        {"id": 4, "name": "Sem disfarce, mostrar minha verdadeira identidade", "alias": "B"}
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Como você lidaria com um arqui-inimigo?",
+      "options": [
+        {"id": 1, "name": "Planejaria estratégias para derrotá-lo", "alias": "A"},
+        {"id": 2, "name": "Tentaria encontrar uma solução pacífica", "alias": "B"},
+        {"id": 3, "name": "Provocaria mais conflitos para testar suas habilidades", "alias": "A"},
+        {"id": 4, "name": "Pediria ajuda de outros super-heróis", "alias": "B"}
+      ]
+    },
+    {
+      "id": 10,
+      "question": "O que motivaria suas ações como super ser?",
+      "options": [
+        {"id": 1, "name": "Vingança por um passado traumático", "alias": "A"},
+        {"id": 2, "name": "Desejo de justiça e proteção dos inocentes", "alias": "B"},
+        {"id": 3, "name": "Diversão e caos", "alias": "A"},
+        {"id": 4, "name": "Busca por conhecimento e evolução", "alias": "B"}
+      ]
     }
   ],
   "results":{
